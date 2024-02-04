@@ -32,6 +32,11 @@ int main()
     scanf("%s", pass);
 
 
+    /*
+    * 
+    * THIS WILL BE IN THE CASE OF A USB INJECTABLE
+    * 
+    * 
     if (pluggedin_no = 0) {
         return 0;
     }
@@ -39,6 +44,7 @@ int main()
     else if (pluggedin_yes = 1) {
         return 0; //TEMPORARY
     }
+    */
 
 
     //This is the loop that will continue to guess until it reaches the passsword or runs out of guesses.
